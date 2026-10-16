@@ -1,0 +1,7 @@
+{
+  "uuid": "world-clocks-panel@local",
+  "name": "World Clocks",
+  "description": "A compact panel clock with all your world clocks one click away.",
+  "icon": "preferences-system-time",
+  "max-instances": 1
+}

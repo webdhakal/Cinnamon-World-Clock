@@ -1,0 +1,8 @@
+{
+  "uuid": "world-clocks-desklet@local",
+  "name": "World Clocks",
+  "description": "Your chosen cities, local times, dates and UTC offsets on the desktop.",
+  "icon": "preferences-system-time",
+  "max-instances": 1,
+  "prevent-decorations": true
+}

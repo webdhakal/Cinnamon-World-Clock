@@ -1,0 +1,17 @@
+.world-clocks-card {
+    background-color: rgba(20, 27, 38, 0.95);
+    color: #f2f5fa;
+    border: 1px solid rgba(181, 205, 237, 0.18);
+    border-radius: 16px;
+    padding: 20px;
+    min-width: 340px;
+    spacing: 6px;
+}
+.world-clocks-heading { padding-bottom: 10px; spacing: 24px; }
+.world-clocks-eyebrow { font-size: 10pt; font-weight: bold; color: #a9bfdb; padding-top: 6px; }
+.world-clocks-settings { font-size: 10pt; color: #bce9db; padding: 5px 8px; border-radius: 6px; }
+.world-clocks-settings:hover, .world-clocks-settings:focus { background-color: rgba(188, 233, 219, 0.12); }
+.world-clocks-location { padding: 12px 0; border-top: 1px solid rgba(181, 205, 237, 0.12); spacing: 5px; }
+.world-clocks-city { font-size: 12pt; padding-top: 7px; padding-right: 20px; }
+.world-clocks-time { font-size: 23pt; font-weight: bold; }
+.world-clocks-detail { font-size: 10pt; color: #a9bfdb; }
